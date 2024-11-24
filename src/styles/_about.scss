@@ -1,4 +1,4 @@
-#about {
+#about, #work {
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
@@ -7,11 +7,11 @@
   }
 }
 
-.tech {
+.tech, .work-tech {
   margin: 10px;
 }
 
-.user {
+.user, .work-user {
   text-align: center;
   font-size: 60px;
   display: flex;
@@ -27,7 +27,7 @@
   }
 }
 
-.user-details {
+.user-details, .work-details {
   text-align: center;
   margin: 5px auto;
 }
